@@ -24,4 +24,5 @@ Pada sistem ini:
 ---
 
 pip install streamlit
+
 streamlit run frontend.py
